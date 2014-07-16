@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Phetsarath-Regular_hinted.ttf.GlyphOrder.ttx"/>
+  <head src="Phetsarath-Regular_hinted.ttf._h_e_a_d.ttx"/>
+  <hhea src="Phetsarath-Regular_hinted.ttf._h_h_e_a.ttx"/>
+  <maxp src="Phetsarath-Regular_hinted.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Phetsarath-Regular_hinted.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Phetsarath-Regular_hinted.ttf._h_m_t_x.ttx"/>
+  <cmap src="Phetsarath-Regular_hinted.ttf._c_m_a_p.ttx"/>
+  <prep src="Phetsarath-Regular_hinted.ttf._p_r_e_p.ttx"/>
+  <loca src="Phetsarath-Regular_hinted.ttf._l_o_c_a.ttx"/>
+  <glyf src="Phetsarath-Regular_hinted.ttf._g_l_y_f.ttx"/>
+  <name src="Phetsarath-Regular_hinted.ttf._n_a_m_e.ttx"/>
+  <post src="Phetsarath-Regular_hinted.ttf._p_o_s_t.ttx"/>
+  <gasp src="Phetsarath-Regular_hinted.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Phetsarath-Regular_hinted.ttf.F_F_T_M_.ttx"/>
+  <GPOS src="Phetsarath-Regular_hinted.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Phetsarath-Regular_hinted.ttf.G_S_U_B_.ttx"/>
+  <TSI0 src="Phetsarath-Regular_hinted.ttf.T_S_I__0.ttx"/>
+  <TSI1 src="Phetsarath-Regular_hinted.ttf.T_S_I__1.ttx"/>
+  <TSI2 src="Phetsarath-Regular_hinted.ttf.T_S_I__2.ttx"/>
+  <TSI3 src="Phetsarath-Regular_hinted.ttf.T_S_I__3.ttx"/>
+  <TSI5 src="Phetsarath-Regular_hinted.ttf.T_S_I__5.ttx"/>
+  <feat src="Phetsarath-Regular_hinted.ttf._f_e_a_t.ttx"/>
+  <morx src="Phetsarath-Regular_hinted.ttf._m_o_r_x.ttx"/>
+</ttFont>

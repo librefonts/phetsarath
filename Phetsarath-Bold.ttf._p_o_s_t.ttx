@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-217"/>
+    <underlineThickness value="150"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+      <psName name="#1" psName=""/>
+      <psName name="#10" psName=""/>
+      <psName name="#11" psName=""/>
+      <psName name="#12" psName=""/>
+      <psName name="#13" psName=""/>
+      <psName name="#14" psName=""/>
+      <psName name="#15" psName=""/>
+      <psName name="#16" psName=""/>
+      <psName name="#17" psName=""/>
+      <psName name="#18" psName=""/>
+      <psName name="#19" psName=""/>
+      <psName name="#2" psName=""/>
+      <psName name="#20" psName=""/>
+      <psName name="#21" psName=""/>
+      <psName name="#22" psName=""/>
+      <psName name="#23" psName=""/>
+      <psName name="#24" psName=""/>
+      <psName name="#3" psName=""/>
+      <psName name="#4" psName=""/>
+      <psName name="#5" psName=""/>
+      <psName name="#6" psName=""/>
+      <psName name="#7" psName=""/>
+      <psName name="#8" psName=""/>
+      <psName name="#9" psName=""/>
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni0E81"/>
+      <psName name="uni0E82"/>
+      <psName name="uni0E84"/>
+      <psName name="uni0E87"/>
+      <psName name="uni0E88"/>
+      <psName name="uni0E8A"/>
+      <psName name="uni0E8D"/>
+      <psName name="uni0E94"/>
+      <psName name="uni0E95"/>
+      <psName name="uni0E96"/>
+      <psName name="uni0E97"/>
+      <psName name="uni0E99"/>
+      <psName name="uni0E9A"/>
+      <psName name="uni0E9B"/>
+      <psName name="uni0E9C"/>
+      <psName name="uni0E9D"/>
+      <psName name="uni0E9E"/>
+      <psName name="uni0E9F"/>
+      <psName name="uni0EA1"/>
+      <psName name="uni0EA2"/>
+      <psName name="uni0EA3"/>
+      <psName name="uni0EA5"/>
+      <psName name="uni0EA7"/>
+      <psName name="uni0EAA"/>
+      <psName name="uni0EAB"/>
+      <psName name="uni0EAD"/>
+      <psName name="uni0EAE"/>
+      <psName name="uni0EAF"/>
+      <psName name="uni0EB0"/>
+      <psName name="uni0EB1"/>
+      <psName name="uni0EB2"/>
+      <psName name="uni0EB3"/>
+      <psName name="uni0EB4"/>
+      <psName name="uni0EB5"/>
+      <psName name="uni0EB6"/>
+      <psName name="uni0EB7"/>
+      <psName name="uni0EB8"/>
+      <psName name="uni0EB9"/>
+      <psName name="uni0EBB"/>
+      <psName name="uni0EBC"/>
+      <psName name="uni0EBD"/>
+      <psName name="uni0EC0"/>
+      <psName name="uni0EC1"/>
+      <psName name="uni0EC2"/>
+      <psName name="uni0EC3"/>
+      <psName name="uni0EC4"/>
+      <psName name="uni0EC6"/>
+      <psName name="uni0EC8"/>
+      <psName name="uni0EC9"/>
+      <psName name="uni0ECA"/>
+      <psName name="uni0ECB"/>
+      <psName name="uni0ECC"/>
+      <psName name="uni0ECD"/>
+      <psName name="uni0ED0"/>
+      <psName name="uni0ED1"/>
+      <psName name="uni0ED2"/>
+      <psName name="uni0ED3"/>
+      <psName name="uni0ED4"/>
+      <psName name="uni0ED5"/>
+      <psName name="uni0ED6"/>
+      <psName name="uni0ED7"/>
+      <psName name="uni0ED8"/>
+      <psName name="uni0ED9"/>
+      <psName name="uni0EDC"/>
+      <psName name="uni0EDD"/>
+      <psName name="uni0EC8.blw"/>
+      <psName name="uni0EC9.blw"/>
+      <psName name="uni0ECA.blw"/>
+      <psName name="uni0ECB.blw"/>
+      <psName name="uni0ECC.blw"/>
+      <psName name="uni0ECD.blw"/>
+      <psName name="uni0ECD_0EC9"/>
+      <psName name=""/>
+      <psName name="uni0E81.am"/>
+      <psName name="uni0E82.am"/>
+      <psName name="uni0E84.am"/>
+      <psName name="uni0E87.am"/>
+      <psName name="uni0E88.am"/>
+      <psName name="uni0E8A.am"/>
+      <psName name="uni0E8D.am"/>
+      <psName name="uni0E94.am"/>
+      <psName name="uni0E95.am"/>
+      <psName name="uni0E96.am"/>
+      <psName name="uni0E97.am"/>
+      <psName name="uni0E99.am"/>
+      <psName name="uni0E9A.am"/>
+      <psName name="uni0E9B.am"/>
+      <psName name="uni0E9C.am"/>
+      <psName name="uni0E9D.am"/>
+      <psName name="uni0E9E.am"/>
+      <psName name="uni0E9F.am"/>
+      <psName name="uni0EA1.am"/>
+      <psName name="uni0EA2.am"/>
+      <psName name="uni0EA3.am"/>
+      <psName name="uni0EA5.am"/>
+      <psName name="uni0EA7.am"/>
+      <psName name="uni0EAA.am"/>
+      <psName name="uni0EAB.am"/>
+      <psName name="uni0EAD.am"/>
+      <psName name="uni0EAE.am"/>
+      <psName name="uni0EDC.am"/>
+      <psName name="uni0EDD.am"/>
+      <psName name="uni0EB3.right"/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+    </extraNames>
+  </post>
+
+</ttFont>
