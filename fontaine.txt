@@ -1,0 +1,134 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Phetsarath
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.01
+    Vendor: Danh Hong
+    Vendor url: www.phetsarath.gov.la
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com
+    Glyph count: 162
+    Character count: 116
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Phetsarath
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.01
+    Vendor: Danh Hong
+    Vendor url: www.phetsarath.gov.la
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com
+    Glyph count: 162
+    Character count: 116
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Phetsarath
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.01
+    Vendor: Danh Hong
+    Vendor url: www.phetsarath.gov.la
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com
+    Glyph count: 162
+    Character count: 101
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Phetsarath
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.01
+    Vendor: Danh Hong
+    Vendor url: www.phetsarath.gov.la
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com
+    Glyph count: 162
+    Character count: 101
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

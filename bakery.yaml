@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Phetsarath-Bold.ttf.ttx, Phetsarath-Regular.ttf.ttx, src/Phetsarath-Bold-unhinted.ttf.ttx,
+  src/Phetsarath-Regular_hinted.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
